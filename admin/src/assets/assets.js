@@ -16,4 +16,4 @@ export const assets ={
     profile_icon
 }
 
-export const url = 'http://localhost:3000'
+export const url = 'https://food-backend-rjq8.onrender.com'
