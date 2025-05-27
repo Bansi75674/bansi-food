@@ -11,7 +11,7 @@ import UserList from './pages/UserList/UserList'
 
 const App = () => {
 
-const url = "http://localhost:3000"
+const url = "https://food-backend-rjq8.onrender.com"
 
   return (
     <div>
